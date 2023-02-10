@@ -1,2 +1,4 @@
 node_modules
-deploymentscache
+deployments
+cache 
+artifacts  
